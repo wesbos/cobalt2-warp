@@ -15,7 +15,7 @@ After that step, all future changes to `~/.warp/themes` directory will be reflec
 Download the `cobalt2.yaml` file from this repo and copy it into the `themes` directory.
 
 ```sh
-cp ~/cobalt2-warp/coblat2.yaml ~/.warp/themes
+cp ~/cobalt2-warp/cobalt2.yaml ~/.warp/themes
 ```
 
 Open the Settings menu (top right corner or `⌘-,`), and choose Select Theme. Cobalt2 should now be visible on the list of available themes. Click & confirm, and you're set!

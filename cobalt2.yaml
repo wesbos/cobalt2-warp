@@ -1,24 +1,25 @@
-# prettier-ignore
-accent: '#ffc600'
+accent:
+  left: '#ffc600'
+  right: '#ff2c70'
 background: '#193549'
-details: darker
-foreground: '#c7c7c7'
+details: lighter
+foreground: '#ffffff'
 terminal_colors:
   bright:
-    black: '#808080'
-    blue: '#1478db'
-    cyan: '#00ffff'
-    green: '#33ff00'
-    magenta: '#cc00ff'
-    red: '#ff0000'
+    black: '#9d8b70'
+    blue: '#b4a490'
+    cyan: '#b49368'
+    green: '#302b25'
+    magenta: '#d7c8bc'
+    red: '#cb2910'
     white: '#ffffff'
-    yellow: '#ffff00'
+    yellow: '#48413a'
   normal:
     black: '#000000'
     blue: '#1478db'
-    cyan: '#00c5c7'
+    cyan: '#A5FF90'
     green: '#3ad900'
-    magenta: '#ff2c70'
-    red: '#ff2600'
-    white: '#c7c7c7'
+    magenta: '#bb90e2'
+    red: '#cb2910'
+    white: '#ffffff'
     yellow: '#ffc600'
